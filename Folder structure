@@ -1,0 +1,14 @@
+reflexmind/
+├── backend/
+│   ├── main.py
+│   ├── database.db
+│   ├── models.py
+│   └── requirements.txt
+├── frontend/
+│   ├── pages/
+│   │   ├── index.js
+│   │   └── ideas.js
+│   ├── components/
+│   ├── package.json
+│   └── styles/
+└── README.md
